@@ -1,0 +1,36 @@
+ToDo list:
+
+Roll dice function
+	The player(s) can roll a dice, it will give a result of 1 to 6 and that is how many steps the player(s) can make.
+		Make the dice texture.
+		Make the roll function.
+		Generate results of the roll.
+		Sync up the rolling to the results.
+		Send result information to Step count and Move Function.
+
+Move function
+	The player(s) can move around the map on tiles, they can only move X steps from their starting point of the current turn.
+	X being the amount rolled on the dice + additional bonuses.
+	Their current position is where they last landed on.
+
+Step count
+	The step count keeps track of the amount of steps a player can make and has made.
+
+Encounter panels
+	if the player(s) land on this tile an encounter will happen. The encounters will be random per region.
+	Lower level enemies will appear in lower level area's so the player can't encounter high level while they are still low level.
+
+Shop panels
+Town panels
+Castle panels
+Church panels
+Random Events
+Quest Events
+Story Events
+Boss Events
+Buy/Sell functions
+Inventory function
+Item(s) functions
+Level System
+Character Attributes
+Equipment Attributes
